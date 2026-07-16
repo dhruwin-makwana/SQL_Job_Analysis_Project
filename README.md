@@ -5,6 +5,11 @@
 
 Looking for the code? All SQL scripts can be found right here: [SQL Queries Folder](/project_queries/)
 
+Looking for the data? All relevant CSVs can be found here: [Click here to visit Google Drive](https://www.lukeb.co/sql_project_csvs)
+
+*(Note: The dataset used for this project was fetched from a sql course by 
+Luke Barousse)*
+
 ## 🧠 Background
 Navigating the modern job market can feel overwhelming. This project was initiated to demystify what employers are truly looking for in Data Analysts. By analyzing real-world job postings, the goal was to uncover actionable trends to help guide career development and pinpoint the most optimal skills to learn.
 
